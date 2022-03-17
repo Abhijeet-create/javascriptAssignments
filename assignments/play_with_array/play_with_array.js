@@ -7,7 +7,6 @@ function getEven(arr) {
 
         Write you code below
     */
-
 }
 
 function multiplyByN(arr, n) {
